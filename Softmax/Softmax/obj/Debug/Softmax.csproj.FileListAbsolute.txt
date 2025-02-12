@@ -1,0 +1,7 @@
+C:\Users\kdrgn\source\repos\Softmax\Softmax\bin\Debug\Softmax.exe.config
+C:\Users\kdrgn\source\repos\Softmax\Softmax\bin\Debug\Softmax.exe
+C:\Users\kdrgn\source\repos\Softmax\Softmax\bin\Debug\Softmax.pdb
+C:\Users\kdrgn\source\repos\Softmax\Softmax\obj\Debug\Softmax.csproj.AssemblyReference.cache
+C:\Users\kdrgn\source\repos\Softmax\Softmax\obj\Debug\Softmax.csproj.CoreCompileInputs.cache
+C:\Users\kdrgn\source\repos\Softmax\Softmax\obj\Debug\Softmax.exe
+C:\Users\kdrgn\source\repos\Softmax\Softmax\obj\Debug\Softmax.pdb
