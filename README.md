@@ -1,20 +1,20 @@
-🏙️ Neighborhood Selection with Softmax
+🏙️ Softmax ile Mahalle Seçimi
 
-This project aims to determine the optimal neighborhood using Softmax normalization with C#. 🚏🚌
+Bu proje, C# ile Softmax normalizasyonu kullanarak en uygun mahalleyi belirlemeyi amaçlamaktadır. 🚏🚌
 
-📌 Project Description
+📌 Proje Açıklaması
 
-This application applies the Softmax algorithm and determines the most suitable neighborhood according to the population density, transportation infrastructure, cost, environmental impact and social benefit criteria for 3 neighborhoods determined in the city of Kırklareli.
+Bu uygulama, Kırklareli şehrinde belirlenen 3 mahalle için nüfus yoğunluğu, ulaşım altyapısı, maliyet, çevresel etki ve sosyal fayda kriterlerine göre Softmax algoritmasını uygular ve en uygun mahalleyi belirler.
 
-📊 Methods Used
+📊 Kullanılan Yöntemler
 
-✅ Softmax Normalization: Allows the criteria to be normalized.
-✅ Total Score Calculation: A score is created for each neighborhood by collecting normalized data.
-✅ Most Suitable Neighborhood Selection: The neighborhood with the highest score is determined.
+✅ Softmax Normalizasyonu: Kriterlerin normalize edilmesini sağlar.
+✅ Toplam Skor Hesaplama: Normalize edilen veriler toplanarak her mahalle için skor oluşturulur.
+✅ En Uygun Mahalle Seçimi: En yüksek skora sahip mahalle belirlenir.
 
+🔧 Nasıl Çalışır?
 
-🔧 How Does It Work?
-1️⃣ The criterion values ​​of the neighborhoods are defined.
-2️⃣ The criteria are normalized by applying the Softmax function.
-3️⃣ The total score is calculated for each neighborhood.
-4️⃣ The neighborhood with the highest score is selected and printed on the screen.
+1️⃣ Mahallelerin kriter değerleri tanımlanır.
+2️⃣ Softmax fonksiyonu uygulanarak kriterler normalize edilir.
+3️⃣ Her mahalle için toplam skor hesaplanır.
+4️⃣ En yüksek skora sahip mahalle seçilir ve ekrana yazdırılır.
